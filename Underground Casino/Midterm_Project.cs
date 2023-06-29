@@ -1,6 +1,4 @@
-﻿using System;
-
-class Midterm_Project
+﻿public class Midterm_Project
 {
     static void Main(string[] args)
     {
@@ -13,7 +11,7 @@ class Midterm_Project
         string decision6;
         int yourGuess;
         int yourBet;
-        decimal yourcredits = 50000000000000000;
+        decimal yourcredits = 750;
 
         // We printed the welcome message to the casino at the first entrance.
         Console.WriteLine("Hello dear player,");
