@@ -4,7 +4,7 @@ This repository is the midterm project of the GAD1003 Basics of Programming cour
 This project is a console game. 
 
 Contributors to the project:      
-https://github.com\Semtomer - Tolga YILMAZ      
+https://github.com/Semtomer - Tolga YILMAZ      
 https://www.instagram.com/umt.k0ry - Umut Koray Özyer
 
 The details of the given project are as follows:    
