@@ -5,7 +5,7 @@ This project is a console game.
 
 Contributors to the project:      
 https://github.com\semtomer - Tolga YILMAZ      
-Umut Koray Özyer
+https://www.instagram.com/umt.k0ry - Umut Koray Özyer
 
 The details of the given project are as follows:    
 There is a casino game with 2 games.
