@@ -7,7 +7,9 @@ Contributors to the project:
 https://github.com/Semtomer - Tolga YILMAZ      
 https://www.instagram.com/umt.k0ry - Umut Koray Özyer
 
-The details of the given project are as follows:    
+The details of the given project are as follows:     
+
+Midterm Project    
 There is a casino game with 2 games.
 
 The first game is Dice game. In the game, the computer and the player roll 2 dice each. The one who rolls the highest dice wins the game. The player bets each round, if the player wins the round, he/she wins double his bet.
